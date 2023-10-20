@@ -4,7 +4,7 @@
 
  ## 现有项目
 
- ### OpenWear Wiki
+ ### [OpenWear Wiki](www.projcora.club/WearWiki)
  OpenWear Wiki是一个开放的可穿戴设备百科.旨在让可穿戴设备用户有一个覆盖范围广的系统的产品百科, 并提供一些高阶内容供探索之用.
 
  ### Project CoreApps(Cora)(开发者学业原因暂停开发)
