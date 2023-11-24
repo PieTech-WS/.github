@@ -7,6 +7,6 @@
  ### [OpenWear Wiki](https://www.projcora.club/OpenWearWiki)
  OpenWear Wiki是一个开放的可穿戴设备百科.旨在让可穿戴设备用户有一个覆盖范围广的系统的产品百科, 并提供一些高阶内容供探索之用.
 
- ### Project CoreApps(Cora)(开发者学业原因暂停开发)
+ ### Project CoreApps(Cora)
 
- Cora是一个旨在基于Python打造跨平台应用生态的项目.下有CoreApps Platform(暂停开发)、CoreApps AppCore(暂停开发)
+ Cora是一个旨在基于Python打造跨平台应用生态的项目.下有CoreApps Platform、CoreApps AppCore(暂停开发)
