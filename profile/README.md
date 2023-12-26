@@ -5,6 +5,9 @@
  ## 现有项目
 
 ### PowerAtom Creative Commons Program(知识共享计划)
+此计划旨在创建一个人人可以参与的知识共享社区, 并为其提供一些基础"设施".  
+人人都可以通过此项目来分享自己的知识.  
+此计划下所有项目均遵循PowerAtom知识共享开源协议
 
 #### [OpenWear Wiki](https://www.projcora.club/OpenWearWiki)
  OpenWear Wiki是一个开放的可穿戴设备百科.旨在让可穿戴设备用户有一个覆盖范围广的系统的产品百科, 并提供一些高阶内容供探索之用.
