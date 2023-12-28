@@ -1,4 +1,4 @@
- # 👋欢迎来到PowerAtom.
+ # 👋欢迎来到PowerAtom!
 
  ![](./BANNER.png)
 
