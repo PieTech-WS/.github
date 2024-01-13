@@ -1,10 +1,10 @@
- # 👋欢迎来到PowerAtom!
+# 👋欢迎来到PowerAtom!
 
  ![](./BANNER.png)
 
  PowerAtom是一个开源组织. 旨在用开源项目创造更多可能, 包括但不限于科普、应用生态......
 
- ## 现有项目
+## 现有项目
 
 ### PowerAtom Creative Commons Program(知识共享计划)
 此计划旨在创建一个人人可以参与的知识共享社区, 并为其提供一些基础"设施".  
